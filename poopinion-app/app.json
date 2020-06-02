@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Poopinion",
+    "slug": "poopinion-app",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.12",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.alexparkvinyas.poopinion",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.alexparkvinyas.poopinion",
+      "versionCode": 1
+    },
+    "description": "Poopinion is a mobile-oriented app purposed on rating toilets on public spaces, such as restaurants, events or companies. The aim for this project is to increase the average quality of those places and keep then clean, hygienic and pretty. Toilet necessities are evident and society needs better ways to know the quality of toilets they might be end up using.\n\nThe application is inspired by other rating apps such as TripAdvisor, where you can evaluate several features and give an overall score. The main difference is that Poopinator will allow registered users to post themselves, rather than check for company posts and rate them. This decision is done so the rating of toilets if full community-oriented.",
+    "githubUrl": "https://github.com/alexiparkhio/skylab-bootcamp-202001/tree/develop-poopinion/staff/alex-park/poopinion"
+  }
+}

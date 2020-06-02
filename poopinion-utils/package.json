@@ -1,0 +1,21 @@
+{
+  "name": "poopinion-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/runtime": "^7.9.2",
+    "node-fetch": "^2.6.0",
+    "poopinion-errors": "file:../poopinion-errors"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.0"
+  },
+  "scripts": {
+    "test": "npx mocha *.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
